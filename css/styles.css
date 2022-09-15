@@ -1,0 +1,25 @@
+head {
+    background-color: darkblue;
+}
+
+#big-image {
+    border-radius: 25px;
+}
+html {
+    background-color:rgb(5, 183, 243);
+    }
+
+p {
+    color:  darkred;
+    text-align: center;
+  }
+
+p {
+    border-style: dotted;
+    border-color: red;
+  }
+
+img {
+    border-style: groove;
+    border-color: yellow;
+  }
